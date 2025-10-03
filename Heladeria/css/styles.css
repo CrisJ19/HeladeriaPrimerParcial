@@ -1,0 +1,123 @@
+:root {
+    --azul-claro: #B3E5FC;
+    --verde-menta: #C8E6C9;
+    --crema: #FFF8E1;
+    --gris-oscuro: #37474F;
+}
+
+body {
+    background-color: var(--crema);
+    color: var(--gris-oscuro);
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--azul-claro);
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+sidebar {
+    background-color: var(--verde-menta);
+    width: 200px;
+    padding: 20px;
+}
+
+sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+sidebar ul li {
+    margin: 10px 0;
+}
+
+sidebar ul li a {
+    color: var(--gris-oscuro);
+    text-decoration: none;
+}
+
+sidebar ul li a:hover {
+    color: var(--azul-claro);
+}
+
+main {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+footer {
+    background-color: var(--azul-claro);
+    text-align: center;
+    padding: 10px;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: var(--verde-menta);
+    border-radius: 8px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid var(--gris-oscuro);
+    border-radius: 4px;
+}
+
+button {
+    background-color: var(--gris-oscuro);
+    color: var(--crema);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--azul-claro);
+    color: var(--gris-oscuro);
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+}
+
+.product {
+    background-color: var(--crema);
+    border: 1px solid var(--gris-oscuro);
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+}
+
+product-card {
+    display: block;
+    margin: 10px;
+}
