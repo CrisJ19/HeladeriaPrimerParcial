@@ -82,11 +82,16 @@ footer {
     margin-bottom: 5px;
 }
 
-.form-group input {
+.form-group input, .form-group textarea {
     width: 100%;
     padding: 8px;
     border: 1px solid var(--gris-oscuro);
     border-radius: 4px;
+}
+
+.form-group textarea {
+    height: 100px;
+    resize: vertical;
 }
 
 button {
