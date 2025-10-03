@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Helado de Vainilla",
+        "description": "Helado cremoso con esencia natural de vainilla.",
+        "price": 5000,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Helado de Mango",
+        "description": "Sabor tropical con trozos de mango fresco.",
+        "price": 6000,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Helado de Chocolate",
+        "description": "Rico helado con cacao puro.",
+        "price": 5500,
+        "image": "https://via.placeholder.com/150"
+    }
+]
