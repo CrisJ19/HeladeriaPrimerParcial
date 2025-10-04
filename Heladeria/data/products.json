@@ -2,103 +2,73 @@
     {
         "name": "Helado de Vainilla",
         "description": "Helado cremoso con esencia natural de vainilla.",
-        "price": 5000,
-        "image": "https://via.placeholder.com/150"
+        "price": 12000,
+        "image": "https://i.pinimg.com/736x/80/af/9e/80af9e6811312851ed2b1330f3558653.jpg"
     },
     {
         "name": "Helado de Mango",
         "description": "Sabor tropical con trozos de mango fresco.",
+        "price": 11500,
+        "image": "https://i.pinimg.com/1200x/c7/ca/03/c7ca03c45be128445ed181c961eff706.jpg"
+    },
+    {
         "name": "Helado de Maracuyá Ocañero",
         "description": "Sabor intenso de maracuyá cultivado en los campos de Ocaña.",
-        "price": 6000,
-        "image": "https://via.placeholder.com/150"
+        "price": 10000,
+        "image": "https://i.pinimg.com/736x/5d/96/e3/5d96e3ce36507481a34842731e1f9922.jpg"
     },
     {
         "name": "Helado de Café Norteño",
         "description": "Elaborado con café artesanal de Norte de Santander.",
-        "price": 6500,
-        "image": "https://via.placeholder.com/150"
+        "price": 13000,
+        "image": "https://i.ytimg.com/vi/2Ut68fqEq9Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBhrJ-jgSYJbnCNRWuYP3lNd3JfPQ"
     },
     {
         "name": "Helado de Guayaba Agria",
         "description": "Sabor refrescante de guayaba local con un toque ácido.",
-        "price": 5500,
-        "image": "https://via.placeholder.com/150"
+        "price": 8500,
+        "image": "https://i.pinimg.com/736x/90/c3/b3/90c3b3f7f859cbf4dd9e9b38f93d20db.jpg"
     },
     {
         "name": "Helado de Dulce de Leche",
         "description": "Cremoso helado inspirado en el tradicional dulce ocañero.",
-        "price": 6000,
-        "image": "https://via.placeholder.com/150"
+        "price": 15000,
+        "image": "https://www.dosanclas.com.ar/wp-content/smush-webp/2021/08/1451418839heladoddl.jpg.webp"
     },
     {
         "name": "Helado de Mango Viche",
         "description": "Mango fresco de la región con un toque tropical.",
-        "price": 5800,
-        "image": "https://via.placeholder.com/150"
+        "price": 3800,
+        "image": "https://i.pinimg.com/736x/46/3a/eb/463aeb0e102d6f6416b51d0d54ad6b4c.jpg"
     },
     {
         "name": "Helado de Coco Caribeño",
         "description": "Sabor a coco que evoca las costas cercanas a Ocaña.",
-        "price": 6200,
-        "image": "https://via.placeholder.com/150"
+        "price": 4200,
+        "image": "https://i.pinimg.com/736x/32/96/94/329694d0e6ec3c1f903aa62830b49db2.jpg"
     },
     {
         "name": "Helado de Mora Silvestre",
         "description": "Moras frescas recolectadas en los bosques de la región.",
-        "price": 5700,
-        "image": "https://via.placeholder.com/150"
+        "price": 14700,
+        "image": "https://thumbs.dreamstime.com/b/helados-de-blackberry-en-un-taz%C3%B3n-blanco-postre-verano-fotograf%C3%ADa-alimentos-tres-cucharas-helado-mora-negra-sentadas-cuenco-389048272.jpg"
     },
     {
         "name": "Helado de Arequipe Ocañero",
         "description": "Arequipe artesanal con un toque de vainilla.",
-        "price": 6500,
-        "image": "https://via.placeholder.com/150"
+        "price": 12500,
+        "image": "https://cdn0.recetasgratis.net/es/posts/5/3/1/queso_helado_arequipeno_78135_paso_8_600.jpg"
     },
     {
         "name": "Helado de Lulo Fresco",
         "description": "Sabor vibrante de lulo cultivado en Norte de Santander.",
-        "price": 6000,
-        "image": "https://via.placeholder.com/150"
+        "price": 5000,
+        "image": "https://i.ytimg.com/vi/6rqbl1FPcNI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFuDxIG574XTNL8KZQgT8yPv8Hqw"
     },
     {
         "name": "Helado de Chocolate",
         "description": "Rico helado con cacao puro.",
-        "price": 5500,
-        "image": "https://via.placeholder.com/150"
-        "name": "Helado de Chocolate Amargo",
-        "description": "Rico chocolate puro con un toque intenso.",
-        "price": 6300,
-        "image": "https://via.placeholder.com/150"
-    },
-    {
-        "name": "Helado de Panela y Canela",
-        "description": "Sabor tradicional con panela orgánica y un toque de canela.",
-        "price": 5500,
-        "image": "https://via.placeholder.com/150"
-    },
-    {
-        "name": "Helado de Frutas Mixtas",
-        "description": "Mezcla de frutas tropicales de la región.",
-        "price": 5800,
-        "image": "https://via.placeholder.com/150"
-    },
-    {
-        "name": "Helado de Vainilla Artesanal",
-        "description": "Vainilla natural con un toque cremoso.",
-        "price": 6000,
-        "image": "https://via.placeholder.com/150"
-    },
-    {
-        "name": "Helado de Limón Mentado",
-        "description": "Limón fresco con un toque de menta refrescante.",
-        "price": 5700,
-        "image": "https://via.placeholder.com/150"
-    },
-    {
-        "name": "Helado de Breva con Queso",
-        "description": "Inspirado en el postre típico ocañero de breva con queso.",
-        "price": 6500,
-        "image": "https://via.placeholder.com/150"
+        "price": 10000,
+        "image": "https://i.ytimg.com/vi/A_XjSLmdQCI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDYF6m8U_6NX1XYS0QCUG_0mmGQ4g"
     }
 ]
